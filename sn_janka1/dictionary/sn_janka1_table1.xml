@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table1" max_length="40" name="sn_janka1_table1" type="collection">
+        <element label="row1" max_length="40" name="row1" type="string"/>
+        <element label="row2" max_length="40" name="row2" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table1">d55f60f85b200010c3a999b8b681c74b</application>
+        <filter/>
+        <name>table1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_janka1.table1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-14 18:52:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>155f60f85b200010c3a999b8b681c74e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table1s</sys_name>
+        <sys_package display_value="janka1" source="sn_janka1">c059a4f45b200010c3a999b8b681c7c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="janka1">c059a4f45b200010c3a999b8b681c7c5</sys_scope>
+        <sys_update_name>sys_ui_module_155f60f85b200010c3a999b8b681c74e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-14 18:52:06</sys_updated_on>
+        <table>sn_janka1_table1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <claim/>
         <order>1000</order>
         <role display_value="sn_janka1.table1_user" name="sn_janka1.table1_user">955fa4b85b200010c3a999b8b681c726</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>

@@ -2,6 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
+        <claim/>
         <description/>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>

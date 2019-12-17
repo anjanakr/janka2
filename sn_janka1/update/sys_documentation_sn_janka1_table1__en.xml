@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="" label="table1" language="en" table="sn_janka1_table1">
         <sys_documentation action="INSERT_OR_UPDATE">
+            <claim/>
             <element/>
             <help/>
             <hint/>
@@ -11,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-10-14 18:52:06</sys_created_on>
-            <sys_id>a95f60f85b200010c3a999b8b681c7d7</sys_id>
+            <sys_id>3e397e155b710010c3a999b8b681c757</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>table1</sys_name>
             <sys_package display_value="janka1" source="sn_janka1">c059a4f45b200010c3a999b8b681c7c5</sys_package>

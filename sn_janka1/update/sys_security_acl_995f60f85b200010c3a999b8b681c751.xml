@@ -3,6 +3,7 @@
         <active>true</active>
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
+        <claim/>
         <condition/>
         <description>Default access control on sn_janka1_table1</description>
         <name>sn_janka1_table1</name>

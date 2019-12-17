@@ -2,6 +2,7 @@
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="table1">d55f60f85b200010c3a999b8b681c74b</application>
+        <claim/>
         <filter/>
         <name>table1s</name>
         <order/>
